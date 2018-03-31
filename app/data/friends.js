@@ -1,7 +1,7 @@
 let friends = [
 {
-  "name":"Chuck Norris",
-  "photo":"https://static.comicvine.com/uploads/original/3/31265/1550715-chuck_norris_2.jpg",
+  "name":"Dwayne Johnson",
+  "photo":"https://en.wikipedia.org/wiki/Dwayne_Johnson#/media/File:Dwayne_Johnson_2,_2013.jpg",
   "scores":[
       5,
       1,
@@ -22,8 +22,8 @@ let friends = [
     ]
 },
 {
-  "name":"Jean-Claude Van Damme",
-  "photo":"https://www.thefamouspeople.com/profiles/images/jean-claude-van-damme-3.jpg",
+  "name":"Arnold Schwarzenegger",
+  "photo":"https://www.randomlists.com/img/people/arnold_schwarzenegger.jpg",
   "scores":[
       2,
       3,
@@ -44,8 +44,8 @@ let friends = [
     ]
 },
 {
-  "name":"Clint Eastwood",
-  "photo":"https://www.thesun.co.uk/wp-content/uploads/2017/06/nintchdbpict000190860133.jpg?strip=all&w=960",
+  "name":"benji",
+  "photo":"https://benjaminjurke.com/assets/images/authors/benjamin-jurke-v5.jpg",
   "scores":[
       2,
       3,
@@ -55,8 +55,8 @@ let friends = [
     ]
 },
 {
-  "name":"Dread Pirate Roberts",
-  "photo":"http://www.slate.com/content/dam/slate/blogs/moneybox/2013/11/06/silk_road_2_0_dread_pirate_roberts_is_resurrected/1383765045.png.CROP.promo-mediumlarge.png",
+  "name":"Nelson Irrigation",
+  "photo":"http://www.nelsonirrigation.com/media/people/image_bceabb1299.jpeg",
   "scores":[
       4,
       2,
